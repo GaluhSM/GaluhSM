@@ -8,6 +8,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=760&height=44&lines=Today%20is%20a%20gift%2C%20that's%20why%20it's%20called%20present." alt="Typing headlines" />
 </p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/galuhsm" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/nyhelluxx" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://tiktok.com/@nyhellux" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+  <a href="mailto:galmei.id@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
 ### About Me
 
 Specialized in Backend, currently preparing for university, planning for AI/ML Engineering (precisely NLP topic). I'm also a math nerd. I do many things, feel free to connect for any topic :)
@@ -15,7 +22,11 @@ Specialized in Backend, currently preparing for university, planning for AI/ML E
 &nbsp;I'm currently learning **Software Architecture**  
 &nbsp;Ask me about **Spring Boot, Mathematics, Cryptography, RPG Games.**  
 &nbsp;Pronouns: **Anything you want to call me to, idc.**  
-&nbsp;Fun fact: **YL 👀**
+&nbsp;Fun fact: **YL🩷👀**
+
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://i.imgflip.com/6by9nv.gif"  />
+</div>
 
 ### Tech Stack
 
@@ -195,12 +206,3 @@ Specialized in Backend, currently preparing for university, planning for AI/ML E
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" height="40" alt="windows 11 logo" />
 </div>
-
-### Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/galuhsm" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/nyhelluxx" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://tiktok.com/@nyhellux" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
-  <a href="mailto:galmei.id@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
