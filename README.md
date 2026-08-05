@@ -206,3 +206,12 @@ Specialized in Backend, currently preparing for university, planning for AI/ML E
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" height="40" alt="windows 11 logo" />
 </div>
+
+---
+<p align="center">
+<i>"Yeah... That's a lot of work. I'm just a curious lil guy."</i>
+</p>
+
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://i.imgflip.com/ay6y6k.gif"  />
+</div>
