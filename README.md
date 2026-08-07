@@ -19,7 +19,7 @@
 
 Specialized in Backend, currently preparing for university, planning for AI/ML Engineering (precisely NLP topic). I'm also a math nerd. I do many things, feel free to connect for any topic :)
 
-&nbsp;I'm currently learning **Software Architecture**  
+&nbsp;I'm currently learning **a really really "Software Architecture".**  
 &nbsp;Ask me about **Spring Boot, Mathematics, Cryptography, RPG Games.**  
 &nbsp;Pronouns: **Anything you want to call me to, idc.**  
 &nbsp;Fun fact: **YL🩷👀**
