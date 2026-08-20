@@ -215,3 +215,8 @@ Specialized in Backend, currently preparing for university, planning for AI/ML E
 <div data-importer="image" align="center">
   <img data-importer="image" height="200" src="https://i.imgflip.com/ay6y6k.gif"  />
 </div>
+
+---
+<p>
+  Note: I am currently privating so many repositories of mine, no one see them anyway. The reason is, I just want to rework my school projects, I'll set them to public when I am done. I realized how bad they are when I learned so many things during PKL (Internship) during my Vocational High School.
+</p>
