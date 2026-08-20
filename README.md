@@ -218,5 +218,9 @@ Specialized in Backend, currently preparing for university, planning for AI/ML E
 
 ---
 <p>
-  Note: I am currently privating many repositories of mine, no one see them anyway. The reason is, I just want to rework on my school projects, I'll set them to public again when I am done. I realized how bad they are when I learned so many things during PKL (Internship) in my Vocational High School era. I leave some of my hobby-ist work. **For anyone looking after my Capability Management, Talent Experience, or Exam-Centered LMS project, please note that they are an enterprise project I built in Padepokan79 Gitlab repository, they are not here, and I do NOT have any consent to show it, thank you for your understanding.**
+  Note: 
+  
+  I am currently privating many repositories of mine, no one see them anyway. The reason is, I just want to rework on my school projects, I'll set them to public again when I am done. I realized how bad they are when I learned so many things during PKL (Internship) in my Vocational High School era. I leave some of my hobby-ist work. 
+  
+  <strong>For anyone looking after my Capability Management, Talent Experience, or Exam-Centered LMS project, please note that they are a private enterprise project I built in Padepokan79 Gitlab repository, they are not here, and I do NOT have any consent to show it, thank you for your understanding. I am on my way to remake it without leaking any important data but still show my work.</strong>
 </p>
